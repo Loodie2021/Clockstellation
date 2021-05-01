@@ -3,3 +3,5 @@ It's very customizable and there are countless "clockstallations" possible
 
 To change color or size:
 Rightclick the skin and select "Edit skin"
+
+CHANGLOG: Digital and Date Settings Now
